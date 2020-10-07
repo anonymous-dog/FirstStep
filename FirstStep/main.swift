@@ -7,5 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
+// コンソールにHello, World!と表示をする
